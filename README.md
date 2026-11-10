@@ -1,5 +1,16 @@
-# SelF-Learning
+# Important points
 Repository to keep all my learning materials
 
+1. kodecloud notes specifially for CKA, KCAD - https://notes.kodekloud.com/
+2. CKA Mock test links:
+3.   https://uklabs.kodekloud.com/topic/mock-exam-1-4/
+4.   https://learn.kodekloud.com/user/courses/udemy-labs-certified-kubernetes-administrator-with-practice-tests/module/22051647-8ef0-4f24-8551-caa14ec77d40/lesson/9589df8a-4014-4502-9881-78ad272e6913
+5.   https://uklabs.kodekloud.com/topic/mock-exam-3-3/
+6. Community - https://kodekloud.com/community/
 
-https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fe2.udemymail.com%2Fls%2Fclick%3Fupn%3Du001.2lHmQuHA33qMi9gFgLTgMb1PXR0Tx83bYrISlHy16zq9KepKtRl50pE6OLu7R5AJd3v-2FyLMbi9wRlMYT2HpOezx1adG1K9GvSW1g-2BacYUIYrkgADoEt0mQDNTjigo-2B3tCyndDddX8-2F8ipI5WcERhJti7mS2WRsghzU5R-2B4DUZ7RIUiW2S7pIbVUuABrd76ELGcIyahCR1VL3MgOZKlogqLd1M58GNofPlT5V-2BoDw7eQ6DeDRo3DyTmlGe5RP5K8CCOKMRSDrQS3o5cf0Q13Ljw-3D-3DF7hw_dPiyhBZzddE-2BNHgNO4DBe4Yb4i4AJpBjQK5pXOVNQbX7QgGVLScob-2Fn6wy22BFimQu6j5y0E7Qd9DxrESqcY3MxZkPeLruXmIhbpVfONK2tAaXwxbMUATtfjRzY2uLZ-2BgjtjvAG6h362rU79LCwWaoaizmM4tNmEuU866xKuS8TJsjQnhZPRazyYhiwcsR7DxhvpStAkWy56qg8eeMNAeoH6gy-2FNpQGasoOfr5FrXc28MSGoXYi1z6eFmBWkD6dmPEMiQOGkTj9L56-2BNwmX-2FB36NmqrZ4SkNgnSfrgy76XgpcKxhI0qe-2FEJuNw7WUIZx-2FmBzqopLbHZp45HFIfHg10G-2B2MSX8dcRym8ZKyQLM-2Bc-3D&data=05%7C02%7Cmt001046674%40techmahindra.com%7Ca3295ce4d4d74e3b880408df3eff05f7%7Cedf442f5b9944c86a131b42b03a16c95%7C0%7C0%7C639298937181132922%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sdVF71AsEL3T23j9f63vGcGLHphWFf0RhaxGYo4RVks%3D&reserved=0
+1. Hashicorp terraform:
+2.   code repository: https://github.com/zealvora/terraform-beginner-to-advanced-resource
+3.   Materials - downloaded
+
+1. Github actions:
+2.   code & slides: https://github.com/academind/github-actions-course-resources
